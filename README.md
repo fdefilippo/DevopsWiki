@@ -24,6 +24,7 @@ A wiki of Guides, Scripts, Tutorials related to devops
   1. [Video Tutorials](#video-tutorials)
   1. [Continuous Integration](#continuous-integration)
   1. [Docker](#docker)
+  2. [Windows](#windows)
   
 
 
@@ -362,7 +363,11 @@ Docker
 
 http://blog.flux7.com/topic/docker
 
+## Windows
 
+Windows
+
+http://superuser.com/questions/972501/how-to-stop-microsoft-from-gathering-telemetry-data-from-windows-7-8-and-8-1
 
 **[Back to top](#table-of-contents)**
 
